@@ -2,71 +2,54 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Maria Chzhen
     - name: Date of Birth
-      value: 14th March 1879
+      value: 7th October 2005
     - name: Languages
-      value: English, German
+      value: English, Russian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: BASc Industrial Engineering
+      institution: University of Toronto, Toronto, Ontario
+      year: 2023-2027 (expected)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Industrial Engineering major, AI minor.
+        - Recipient of the UofT Engineering International Scholar Award ($128,000).
+        - Academic IEEE UofT, Sustainable Engineers Association.
+        # - title: Description 3.
+          # contents:
+          #  - Sub-description 1.
+          #  - Sub-description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: AI and Computer Vision Intern
+      institution: Rocket Innovation Studio
+      year: May 2025 - Current
+      description: Coming soon!
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Undergraduate Researcher, Donti Lab
+      institution: Massachusetts Institute of Technology, Laboratory for Information and Decision Systems
+      year: March 2025 - Current
+      description: Coming soon!
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Undergraduate Researcher, Robot Vision and Learning Lab
+      institution: University of Toronto Robotics Institute
+      year: May 2024 - Current
+      description: Worked on implementing and evaluating ImplicitO (transformer algorithm for perception) for occupancy and flow detection in sidewalk navigation for robotics.
 
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+  # apparently not recommended to include
+    - title: detailed project descriptions coming soon
+    - title: <a href="https://abstracts.societyforscience.org/Home/FullAbstract?ISEFYears=0%2C&Category=Any%20Category&AllAbstracts=True&FairCountry=Any%20Country&FairState=Any%20State&ProjectId=22796">Multiple Factor Regression Analysis of Vegetation Changes and Land Degradation in Drylands</a>
+      year: November 2021 - May 2022
+      description: The purpose of the study is to use a novel statistical approach (multiple factor regression) to quantify the effect of various environmental factors on the vegetation cover of multiple regions and outline measures to increase the vegetation cover. 
 
 - title: Honors and Awards
   type: time_table
